@@ -1,0 +1,15 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+opencv-python
+scikit-image
+scikit-learn
+xgboost
+pillow
+groq
+matplotlib
+seaborn
+tqdm
+albumentations
