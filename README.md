@@ -19,8 +19,6 @@ An advanced deep learning solution for early plant disease detection and predict
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```
 AgroAI-/
 ├── src/
@@ -47,6 +45,7 @@ AgroAI-/
 
 ### 1. Clone the repository
 git clone https://github.com/KashYUP11/AgroAI-.git
+
 cd AgroAI-
 
 ### 2. Install dependencies
@@ -114,26 +113,6 @@ python src/train.py
 ### Fine-tune the Model
 python src/fine_tune.py
 
-## 📊 Model Performance
-
-- **Test Accuracy**: 98.2%
-- **Weighted F1-Score**: 98.6%
-- **Inference Time**: ~30ms (GPU), ~120ms (CPU)
-- **Classes**: 16 disease categories
-
-## 🔬 Models & Architecture
-
-### Disease Detection (CNN)
-- **Backbone**: ResNet18 pre-trained on ImageNet
-- **Attention**: CBAM (Convolutional Block Attention Module)
-- **Input**: 224×224 RGB leaf images
-- **Output**: 16-class disease classification
-
-### Risk Prediction (XGBoost)
-- **Input**: GLCM, HSV, LBP texture features
-- **Output**: Binary classification (healthy/at-risk)
-- **Purpose**: Early risk assessment for visually healthy leaves
-
 ## 📄 License
 
 This project is for academic and educational purposes.
@@ -153,8 +132,3 @@ University of Petroleum & Energy Studies (UPES)
 ---
 
 **⭐ Star this repo if you find it useful!**
-
-
-
-
-
