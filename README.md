@@ -9,6 +9,11 @@ An advanced deep learning solution for early plant disease detection and predict
 - **AI Agronomist**: Integrated **Groq (LLaMA-3)** chatbot that provides real-time treatment plans and agricultural advice.
 - **Interactive Dashboard**: A user-friendly web interface built with **Streamlit**.
 
+## 🎥 Project Demo
+Watch the full working demo of the project:
+
+[![Watch the video](https://drive.google.com/file/d/1yNZxF1x3YQpuujKg63E2XjMxUunlvwlL/view?usp=drive_link)](https://drive.google.com/file/d/1XKnGsfV2LfLO5jFg8QwcIfAzK_x-sMxh/view?usp=drive_link)
+
 ## 🛠️ Tech Stack
 
 - **Deep Learning**: PyTorch, Torchvision, ResNet18, CBAM Attention
