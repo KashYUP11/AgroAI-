@@ -12,7 +12,7 @@ An advanced deep learning solution for early plant disease detection and predict
 ## 🎥 Project Demo
 Watch the full working demo of the project:
 
-[![Watch the video](<img width="1919" height="891" alt="Image" src="https://github.com/user-attachments/assets/43ce6212-9bc5-49b2-9ece-ca1dbf406d3f" />)](https://drive.google.com/file/d/1XKnGsfV2LfLO5jFg8QwcIfAzK_x-sMxh/view?usp=drive_link)
+[![Watch the video](https://github.com/user-attachments/assets/43ce6212-9bc5-49b2-9ece-ca1dbf406d3f)](https://drive.google.com/file/d/1XKnGsfV2LfLO5jFg8QwcIfAzK_x-sMxh/view?usp=drive_link)
 
 ## 🛠️ Tech Stack
 
